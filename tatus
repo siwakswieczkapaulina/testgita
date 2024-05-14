@@ -1,0 +1,23 @@
+[33mcommit 4d96dd5d8b7bf8497f36525bf1aa5df09b06d5ba[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mklient101[m[33m, [m[1;32mmaster[m[33m)[m
+Author: Paulina <siwakswieczkapaulina@gmail.com>
+Date:   Sat Apr 27 11:24:49 2024 +0200
+
+    Zmiany w wymaganiach
+
+[33mcommit 901f542dade8dc2781b530dbfb6467c303bfdc87[m
+Author: Paulina <siwakswieczkapaulina@gmail.com>
+Date:   Sat Apr 27 10:57:31 2024 +0200
+
+    dodawanie zmianz sekcji nie przygotowane do złożenia
+
+[33mcommit dc490a91a6cdd9f085cadc8c23ed4f0b28744777[m
+Author: Paulina <siwakswieczkapaulina@gmail.com>
+Date:   Sat Apr 27 10:31:06 2024 +0200
+
+    zmiana hasła na poprawne
+
+[33mcommit d4c7ac4ec628b36b6f9a50661d7910651837e8f4[m
+Author: Paulina <siwakswieczkapaulina@gmail.com>
+Date:   Mon Apr 22 21:06:55 2024 +0200
+
+    Dodanie logowania

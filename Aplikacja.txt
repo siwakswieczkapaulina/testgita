@@ -2,4 +2,9 @@
         System.out.println("Podaj nazwę użytkownika");
         System.out.println("Podaj poprawne nowe  hasło");
         System.out.println("Kliknij na przycisk zaloguj");
-    }jh,fhjkchjkdyukdyukdyukdyuk
+    }
+
+   public void przypomnijHasło() {
+     
+        System.out.println("Kliknij na przycisk przypomnijj hasło");
+    }
